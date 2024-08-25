@@ -1,7 +1,7 @@
 # Simple Inventory App
 A simple inventory app built with Jetpack Compose for Android doing CRUD operations.
 
-![AppSs](https://raw.githubusercontent.com/dogaegeozden/Simple-Inventory/main/screenshots/sc_1.png)
+![AppSs](https://raw.githubusercontent.com/dogaegeozden/Simple-Inventory-App/main/screenshots/sc_1.png)
 
 Features
 
