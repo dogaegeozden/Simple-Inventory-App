@@ -7,7 +7,8 @@ Features
 
 1) Add, update and remove inventory items
 2) Display a list of inventory items
-3) Simple and intuitive design
+3) Navigate between screens
+4) Simple and intuitive design
 
 Technologies Used
 
